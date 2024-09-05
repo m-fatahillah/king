@@ -1,2 +1,2 @@
-# king
-lesson
+# daspro-jobsheet2
+Repositoriku yang pertama
